@@ -28,4 +28,5 @@ and the minimum counts genes presence in number of cells
 * Recompute the embedding using PAGA-initialization
 * Reconstruct gene changes along PAGA paths for a given set of genes
 ## Analysis and visualization of spatial transcriptomics data
+
 ## Integrating spatial data with scRNA-seq using scanorama
