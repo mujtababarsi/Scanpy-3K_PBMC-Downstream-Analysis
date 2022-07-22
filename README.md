@@ -25,6 +25,7 @@ and the minimum counts genes presence in number of cells
 * draw graph computed and plotted 
 #### 2. Clustering and PAGA:
 * louvain cluster is used and embedded
-* 
+* Recompute the embedding using PAGA-initialization
+* Reconstruct gene changes along PAGA paths for a given set of genes
 ## Analysis and visualization of spatial transcriptomics data
 ## Integrating spatial data with scRNA-seq using scanorama
