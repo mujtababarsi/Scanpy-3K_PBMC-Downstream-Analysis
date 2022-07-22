@@ -15,7 +15,7 @@ and the minimum counts genes presence in number of cells
 * Normalization the data and log-transformed the data
 * Dimensionality reduced with PCA and Neighborhood Graph computed and embedded
 #### 2. Clustering:
-* the step proceded using Leiden cluster to obtain well-connnected cluster
+* Leiden cluster is used to obtain well-connnected cluster
 #### 3. Finding marker genes:
 * Ranking for highly differential genes computed in each cluster 
 * Cell type marked
