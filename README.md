@@ -17,5 +17,14 @@ and the minimum counts genes presence in number of cells
 * Ranking for highly differential genes computed in each cluster 
 * Cell type marked
 ## Trajectory inference for hematopoiesis in mouse
+##### the Dataset: Reconstructing myeloid and erythroid differentiation for data of [Paul et al. (2015).](https://www.cell.com/cell/fulltext/S0092-8674(15)01493-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867415014932%3Fshowall%3Dtrue)
+#### Process description:
+#### 1. Preprocessing and Visualization:
+* the data preprocessed with zheng17 recipe 
+* PCA and neighborhood computed
+* draw graph computed and plotted 
+#### 2. Clustering and PAGA:
+* louvain cluster is used and embedded
+* 
 ## Analysis and visualization of spatial transcriptomics data
 ## Integrating spatial data with scRNA-seq using scanorama
